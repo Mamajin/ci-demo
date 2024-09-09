@@ -1,3 +1,6 @@
+[![Unittest for statistics](https://github.com/Mamajin/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/Mamajin/ci-demo/actions/workflows/python-unittest.yml)
+[![Test for flake8](https://github.com/Mamajin/ci-demo/actions/workflows/run_flake8.yml/badge.svg)](https://github.com/Mamajin/ci-demo/actions/workflows/run_flake8.yml)
+
 Continuous Integration Demo
 ===========================
 
