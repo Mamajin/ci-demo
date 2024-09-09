@@ -1,7 +1,8 @@
 """
 This file contains Statistic calculation functions for the user to
-implement in their program
+implement in their program.
 """
+
 from math import sqrt
 
 
@@ -44,10 +45,9 @@ def variance(data):
 
 
 def stdev(data):
-    """The standard deviation of a list of values"""
+    """The standard deviation of a list of values."""
     if len(data) == 0:
         raise ValueError("List must contain at least one value")
     if len(data) == 1:
         return 0
     return sqrt(variance(data))
-
