@@ -3,6 +3,7 @@ Continuous Integration Demo
 
 [![Unittest for statistics](https://github.com/Mamajin/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/Mamajin/ci-demo/actions/workflows/python-unittest.yml)
 [![Test for flake8](https://github.com/Mamajin/ci-demo/actions/workflows/run_flake8.yml/badge.svg)](https://github.com/Mamajin/ci-demo/actions/workflows/run_flake8.yml)
+[![codecov](https://codecov.io/github/Mamajin/ci-demo/graph/badge.svg?token=J8B34TVEH6)](https://codecov.io/github/Mamajin/ci-demo)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
